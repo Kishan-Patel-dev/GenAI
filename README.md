@@ -2,7 +2,7 @@
 
 Our 2025 new course is currently open for registration! Learn more and register here: https://rsvp.withgoogle.com/events/google-generative-ai-intensive_2025q1
 
-Welcome to our 5-Day Gen AI Intensive Course with Google! This was a live event from November 11-15, 2024, now made available as a self-paced learning guide for anyone interested in learning more about the fundamental technologies and techniques behind Generative AI.
+Welcome to our 5-Day Gen AI Intensive Course with Google! This was a live event from 31st March to 4 April 2025, now made available as a self-paced learning guide for anyone interested in learning more about the fundamental technologies and techniques behind Generative AI.
 
 ## 📚 What's covered:
 - **Day 1: 🤖 Foundational Models & Prompt Engineering** - Explore the evolution of LLMs, from transformers to techniques like fine-tuning and inference acceleration. Get trained with the art of prompt engineering for optimal LLM interaction.
@@ -20,6 +20,7 @@ Follow the following steps to get set up before diving into the daily assignment
 1. 📝 Sign up for a [Kaggle account](https://www.kaggle.com/) and [learn how Notebooks work](https://www.kaggle.com/docs/notebooks). Make sure to phone verify your account, it's necessary for the course's code labs.
 2. 🔑 Sign up for an [AI Studio](https://aistudio.google.com/) account and ensure you can generate an [API key](https://aistudio.google.com/app/apikey).
 3. 💬 Sign up for a Discord account and join us on the [Kaggle Discord server](http://discord.gg/kaggle). Check out [#5dgai-general-chat](https://discord.gg/C8pKnH5K) to find official course announcements and livestream recordings.
+4. [Youtube Playlist](https://www.youtube.com/playlist?list=PLqFaTIg4myu-lbBTrUpoQQIzZZxvrOaP5)
 
 Please note that if you would like to post on other channels on the Kaggle discord you will need to link your Kaggle account to discord here: https://kaggle.com/discord/confirmation.
 
