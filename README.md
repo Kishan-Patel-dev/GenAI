@@ -1,6 +1,11 @@
 # 🚀 5-Day Gen AI Intensive Course with Google Learn Guide
 
+# GenAI
+
+## Kaggle Certification
+I have completed a certification in AI-related topics from Kaggle. You can view the certificate below:
 [![Kaggle Certification](https://www.kaggle.com/certification/badges/kishanpatelai/96)](https://www.kaggle.com/certification/badges/kishanpatelai/96)
+
 
 > 👨‍💻 **Personal Learning Journey**
 > 
