@@ -1,5 +1,7 @@
 # 🚀 5-Day Gen AI Intensive Course with Google Learn Guide
 
+[![Kaggle Certification](https://www.kaggle.com/certification/badges/kishanpatelai/96)](https://www.kaggle.com/certification/badges/kishanpatelai/96)
+
 > 👨‍💻 **Personal Learning Journey**
 > 
 > I am currently learning and documenting my progress through this comprehensive 5-Day Gen AI Intensive Course. This repository serves as my learning journal and resource collection as I work through the course materials.
@@ -19,31 +21,31 @@ As part of the course, I've developed several innovative projects that demonstra
 - **Project**: SwipeWise - Intelligent credit card recommendation system
 - **Features**: Real-time reward optimization, privacy-focused design
 - **Tech Stack**: Gemini API, ChromaDB, Python
-- [View Project](Capstone-Project/AI%20Powred%20Credit%20Card%20Optimizer/REAME%20card.md)
+- [View Project](Capstone-Project/AI%20Powred%20Credit%20Card%20Optimizer/README.md)
 
 ### 2. 🌿 Ayurvedic Diagnostic Agent
 - **Project**: ADA 1.0 - AI-powered Ayurvedic health assessment
 - **Features**: Symptom analysis, personalized recommendations
 - **Tech Stack**: Gemini API, LangChain, Python
-- [View Project](Capstone-Project/Ayurvedic%20Diagnostic%20Agent/README%20ayurvedic.md)
+- [View Project](Capstone-Project/Ayurvedic%20Diagnostic%20Agent/README.md)
 
 ### 3. 📚 Legal Document Analysis
 - **Project**: GenAI-Enhanced Legal Document Analyzer
 - **Features**: Document understanding, clause extraction, fact verification
 - **Tech Stack**: Gemini API, spaCy, Python
-- [View Project](Capstone-Project/Legal-Document-Analysis-Summarization/README%20Legal.md)
+- [View Project](Capstone-Project/Legal-Document-Analysis-Summarization/README.md)
 
 ### 4. 🧠 Mental Health AI Coach
 - **Project**: TherapyAI - AI-powered mental health companion
 - **Features**: Emotion detection, empathetic responses, safety protocols
 - **Tech Stack**: Gemini API, Speech Recognition, Python
-- [View Project](Capstone-Project/Mental%20Health%20AI%20Coach/README%20Thereapy.md)
+- [View Project](Capstone-Project/Mental%20Health%20AI%20Coach/README.md)
 
 ### 5. 📖 Personalized Learning Path Generator
 - **Project**: AI-Powered Learning Path Generator
 - **Features**: Customized learning paths, progress tracking
 - **Tech Stack**: Gemini API, LangChain, Python
-- [View Project](Capstone-Project/Personalized%20Learning%20Path%20Mentor/README%20Learning%20Path.md)
+- [View Project](Capstone-Project/Personalized%20Learning%20Path%20Mentor/README.md)
 
 Our 2025 new course is currently open for registration! Learn more and register here: https://rsvp.withgoogle.com/events/google-generative-ai-intensive_2025q1
 
