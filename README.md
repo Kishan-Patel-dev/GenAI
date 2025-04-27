@@ -46,7 +46,7 @@ As part of the course, I've developed several innovative projects that demonstra
 - **Project**: TherapyAI - AI-powered mental health companion
 - **Features**: Emotion detection, empathetic responses, safety protocols
 - **Tech Stack**: Gemini API, Speech Recognition, Python
-- [View Project](Capstone-Project/Mental%20Health%20AI%20Coach/README.md)
+- [View Project](Capstone-Project/Mental%20Health%20AI%20Coach%20/README.md)
 
 ### 5. 📖 Personalized Learning Path Generator
 - **Project**: AI-Powered Learning Path Generator
