@@ -2,10 +2,12 @@
 
 # GenAI
 
-## Kaggle Certification
-I have completed a certification in AI-related topics from Kaggle. You can view the certificate below:
-[![Kaggle Certification](https://www.kaggle.com/certification/badges/kishanpatelai/96)](https://www.kaggle.com/certification/badges/kishanpatelai/96)
+## 🏅 Kaggle Certification
 
+I'm excited to share that I've completed a **Kaggle AI Certification** 🎓, which highlights my skills in the field of AI! This certification aligns with my work on this project and demonstrates my expertise in generative models and machine learning techniques.
+
+🔗 You can view the certificate by clicking on the link below:
+[🏆 Kaggle AI Certification: Kishan Patel](https://www.kaggle.com/certification/badges/kishanpatelai/96)
 
 > 👨‍💻 **Personal Learning Journey**
 > 
