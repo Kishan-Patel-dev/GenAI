@@ -1,7 +1,6 @@
 # 📚 Gen AI-Enhanced Legal Document Analysis and Summarization
 
 [![Kaggle Notebook](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/kishanpatelai/gen-ai-enhanced-legal-document-analysis-and-summar)
-[![Medium Article](https://img.shields.io/badge/Medium-Read%20Article-black)](https://medium.com/@kishan.patel.tech.dev)
 
 ## 🌟 Project Overview
 
@@ -142,7 +141,7 @@ Try it yourself with the sample legal documents in the notebook!
 ## 📚 Resources
 
 - [Kaggle Notebook](https://www.kaggle.com/code/kishanpatelai/gen-ai-enhanced-legal-document-analysis-and-summar)
-- [Medium Article](https://medium.com/@kishan.patel.tech.dev)
+- [Medium Article](https://medium.com/@kishan.patel.tech.dev/from-zero-to-genai-hero-in-5-days-building-a-personalized-learning-path-generator-with-google-23512ba01da0)
 - [5-Day Gen AI Intensive Course](https://www.kaggle.com/learn/intro-to-gen-ai)
 
 ## 🤝 Contributing
@@ -165,4 +164,4 @@ This tool is designed to assist in legal document analysis but should not be con
 
 ---
 
-Made with ❤️ as part of the 5-Day Gen AI Intensive Course with Google
+Made with ❤️ by Kishan Patel as part of the 5-Day Gen AI Intensive Course with Google
