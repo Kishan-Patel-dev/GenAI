@@ -31,7 +31,6 @@ I'm excited to share that I've completed a **Kaggle AI Certification** 🎓, whi
 🌐 Let's connect:
 
 *[GitHub](https://github.com/Kishan-Patel-dev)*    ||     *[LinkedIn](https://www.linkedin.com/in/kishan-patel-dev)*    ||    *[X (Twitter)](https://x.com/KishanPatel_dev)*
-
 ---
 ## Kaggle Certification
 ![5-Day Gen AI Intensive Certificate](Completed%205-Day%20Gen%20AI%20Intensive%20(1).png)
