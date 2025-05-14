@@ -2,16 +2,6 @@
 
 # GenAI
 
-<<<<<<< HEAD
-## 🏅 Kaggle Certification
-
-I'm excited to share that I've completed a **Kaggle AI Certification** 🎓, which highlights my skills in the field of AI! This certification aligns with my work on this project and demonstrates my expertise in generative models and machine learning techniques.
-
-🔗 You can view the certificate by clicking on the link below:
-[🏆 Kaggle AI Certification: Kishan Patel](https://www.kaggle.com/certification/badges/kishanpatelai/96)
-
-=======
->>>>>>> 2baaece (Update README)
 > 👨‍💻 **Personal Learning Journey**
 > 
 > I am currently learning and documenting my progress through this comprehensive 5-Day Gen AI Intensive Course. This repository serves as my learning journal and resource collection as I work through the course materials.
@@ -32,9 +22,12 @@ I'm excited to share that I've completed a **Kaggle AI Certification** 🎓, whi
 
 *[GitHub](https://github.com/Kishan-Patel-dev)*    ||     *[LinkedIn](https://www.linkedin.com/in/kishan-patel-dev)*    ||    *[X (Twitter)](https://x.com/KishanPatel_dev)*
 ---
-## Kaggle Certification
+## 🏅 Kaggle Certification
+
+I'm excited to share that I've completed a **Kaggle AI Certification** 🎓, which highlights my skills in the field of AI! This certification aligns with my work on this project and demonstrates my expertise in generative models and machine learning techniques.
+
 ![5-Day Gen AI Intensive Certificate](Completed%205-Day%20Gen%20AI%20Intensive%20(1).png)
-[![Kaggle Certification](https://www.kaggle.com/certification/badges/kishanpatelai/96)](https://www.kaggle.com/certification/badges/kishanpatelai/96)
+[🏆 Kaggle AI Certification: Kishan Patel](https://www.kaggle.com/certification/badges/kishanpatelai/96)
 
 ---
 
