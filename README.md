@@ -2,6 +2,7 @@
 
 # GenAI
 
+<<<<<<< HEAD
 ## 🏅 Kaggle Certification
 
 I'm excited to share that I've completed a **Kaggle AI Certification** 🎓, which highlights my skills in the field of AI! This certification aligns with my work on this project and demonstrates my expertise in generative models and machine learning techniques.
@@ -9,9 +10,34 @@ I'm excited to share that I've completed a **Kaggle AI Certification** 🎓, whi
 🔗 You can view the certificate by clicking on the link below:
 [🏆 Kaggle AI Certification: Kishan Patel](https://www.kaggle.com/certification/badges/kishanpatelai/96)
 
+=======
+>>>>>>> 2baaece (Update README)
 > 👨‍💻 **Personal Learning Journey**
 > 
 > I am currently learning and documenting my progress through this comprehensive 5-Day Gen AI Intensive Course. This repository serves as my learning journal and resource collection as I work through the course materials.
+
+## 👨‍💻 About Me
+**KISHAN PATEL** — Ideas to **REALITY** | OSS Contributor 
+- 🚀 Passionate about turning ideas into impactful software, automating workflows, and driving innovation in open-source communities.
+
+- 💡 Currently building **AI Agents** and **Generative AI Projects** with a focus on real-world usability and scalability.
+
+- 🧠 Exploring the frontier of **Generative AI**, **Autonomous Agents**, and **LLM-driven systems**, while sharpening my expertise in **full-stack web development** — from pixel-perfect UIs to resilient backend APIs.
+
+- 🤝 Active contributor to [Rocket.Chat](https://github.com/rocketChat/) and [Openlit](https://github.com/openlit/), with a commitment to collaborative problem-solving and continuous learning.
+
+- 🧰 Favorite tools & tech: TypeScript, Node.js, MongoDB, Express, LLMs, and LangGraph frameworks.
+
+🌐 Let's connect:
+
+*[GitHub](https://github.com/Kishan-Patel-dev)*    ||     *[LinkedIn](https://www.linkedin.com/in/kishan-patel-dev)*    ||    *[X (Twitter)](https://x.com/KishanPatel_dev)*
+
+---
+## Kaggle Certification
+![5-Day Gen AI Intensive Certificate](Completed%205-Day%20Gen%20AI%20Intensive%20(1).png)
+[![Kaggle Certification](https://www.kaggle.com/certification/badges/kishanpatelai/96)](https://www.kaggle.com/certification/badges/kishanpatelai/96)
+
+---
 
 ## 📂 Daily Learning Resources
 - [Day 1: Foundational Models & Prompt Engineering](Day1/README.md)
